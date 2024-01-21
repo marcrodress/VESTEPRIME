@@ -1,0 +1,15 @@
+#box{
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box input{
+	font:12px Arial, Helvetica, sans-serif;
+	border:1px solid #000;
+	padding:4px;
+	color:#00F;
+	border-radius:3px;
+	}
+#box table td{
+	border:1px solid #CCC;
+	padding:4px;
+	border-radius:3px;
+	}

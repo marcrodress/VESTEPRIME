@@ -1,0 +1,23 @@
+body{
+	padding:0;
+	margin:0;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	}
+body input{
+	width:120px;
+	padding:5px;
+	height:40px;
+	font:12px Arial, Helvetica, sans-serif;
+	background:#06C;
+	color:#FFF;
+	border:1px solid #CCC;
+	cursor:pointer;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+body input:hover{
+	border:1px solid #000;
+	}

@@ -1,0 +1,70 @@
+body{background:#3C0C00; padding:0; margin:0; text-transform:uppercase;}
+
+
+#box_corpo{
+	width:1000px;
+	background:#FFF;
+	height:auto;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	}
+#box_corpo .input{
+	padding:20px;
+	font:30px Arial, Helvetica, sans-serif;
+	border-radius:5px;
+	color:#099;
+	text-transform:uppercase;
+	margin:10px;
+	border:1px solid #000;
+	text-align:center;
+	}
+#box_corpo .input_estoque{
+	border:1px solid #FFF;
+	text-align:center;
+	}
+#box_corpo .input2{
+	padding:20px;
+	font:30px Arial, Helvetica, sans-serif;
+	border-radius:5px;
+	color:#099;
+	text-transform:uppercase;
+	margin:10px 0 0 3px;
+	border:1px solid #000;
+	text-align:center;
+	}
+#box_corpo table{
+	font:12px Arial, Helvetica, sans-serif;
+	text-align:center;
+	border:2px solid #066;
+	}
+#box_corpo h2{
+	font:13px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	padding:0;
+	margin:10px;
+	text-align:left;
+	color:#F90;
+	}
+#box_corpo h3{
+	font:18px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	padding:0;
+	margin:0;
+	text-align:left;
+	color:#09C;
+	}
+
+
+
+
+#rodape{
+	width:1000px;
+	height:20px;
+	margin:auto;
+	font:12px Arial, Helvetica, sans-serif;
+	padding:0;
+	text-align:center;
+	color:#FFF;
+	border:0px solid #FFF;
+	}

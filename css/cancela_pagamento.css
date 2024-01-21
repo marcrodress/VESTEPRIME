@@ -1,0 +1,118 @@
+#box_pagamento_1{
+	width:1000px;
+	height:490px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:10px;
+	text-transform:capitalize;
+	font:20px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 .select{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	width:890px;
+	float:left;
+	padding:10px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .botao_avancar{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 0;
+	width:80px;
+	padding:10px;
+	float:left;
+	height:46px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .botao_avancar3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:80px;
+	padding:10px;
+	height:46px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .codigo_barras{
+	font:33px Arial, Helvetica, sans-serif;
+	margin:10px;
+	width:870px;
+	float:left;
+	padding:10px;
+	height:40px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .motivo{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	width:870px;
+	padding:5px;
+	color:#666;
+	height:40px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .codigo_barras2{
+	font:33px Arial, Helvetica, sans-serif;
+	margin:10px;
+	width:955px;
+	float:left;
+	padding:10px;
+	height:50px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .botao_avancar2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 0;
+	width:80px;
+	padding:10px;
+	float:left;
+	height:60px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 table{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:0 10px 10px 0;
+	border:1px solid #CCC;
+	border-radius:5px;
+	text-align:center;
+	}
+#box_pagamento_1 .a{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:100px 0 20px 290px;
+	border:2px solid #000;
+	}
+#box_pagamento_1 .a2{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#036;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:0px 0 20px 280px;
+	border:2px solid #000;
+	}

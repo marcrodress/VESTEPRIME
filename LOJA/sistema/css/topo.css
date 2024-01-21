@@ -1,0 +1,221 @@
+body{ background:url(../img/back_gound.png); margin:0;}
+
+#linha_fixa{
+	width:auto;
+	height:15px;
+	padding:10px;
+	background:#350000;
+	color:#FFF;
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#linha_fixa a{
+	text-decoration:none;
+	color:#FFF;
+	}
+#linha_fixa a:hover{
+	color:#CCC;
+	}	
+
+#box_topo{
+	margin:-2px auto -15px auto;
+	border:1px solid #999;
+	width:1200px;
+	background:#FFF;
+	height:175px;
+
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	}
+	
+#logo{
+	width:300px;
+	float:left;
+	height:auto;
+	}
+	
+#operador{
+	operador:0px 3px 0 380px;
+	float:left;
+	width:300px;
+	height:23px;
+	padding:5px;
+	}
+#operador .h1{
+	font:13px Arial, Helvetica, sans-serif;
+	color:#F90;
+	}
+#operador .strong{
+	color:#900;
+	}
+#operador .a{
+	}
+#operador .a:hover{
+	text-decoration:none;
+	}
+	
+#campo_opcoes{
+	margin:-30px 3px 0 auto;
+	border:1px solid #999;
+	float:right;
+	width:940px;
+	height:18px;
+	padding:5px;
+	background:url(../img/beck_top.png);
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	}
+#campo_opcoes ul{
+	list-style:none;
+	}
+#campo_opcoes ul li{
+	display:inline;
+	}
+#campo_opcoes ul li a{
+	float:left;
+	font:10px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	text-decoration:none;
+	margin:-21px 0 0 0;
+	padding:7px 10px 8px 10px;
+	}
+#campo_opcoes ul li a:hover{
+	background:#003;
+	}
+#campo_opcoes ul li img{
+	float:left;
+	margin:-20px 0 0 0;
+	}
+	
+#campo_buscar{
+	margin:10px 10px -15px auto;
+	border:1px solid #999;
+	float:right;
+	background:#FFF;
+	padding:5px;
+	background:url(../img/back_ground_campo_busca.png);
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	}
+#campo_buscar .input{
+	padding:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	color:#F90;
+	width:370px;
+	height:45px;
+	border:2px solid #F60;
+
+	-webkit-border-top-left-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	}
+#campo_buscar .input2{
+	padding:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#900;
+	width:100px;
+	cursor:pointer;
+	height:70px;
+	margin:-5px 0 0 0;
+	border:3px solid #F30;
+
+	-webkit-border-top-right-radius: 10px;
+	-webkit-border-bottom-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	-moz-border-radius-bottomright: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	}
+
+#menu_topo{
+	float:left;
+	width:1200px;
+	height:40px;
+	background:url(../img/menu.png) top repeat-x;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:20px;
+	}
+#menu_topo ul{
+	list-style-type:none;
+	float:left;
+	}
+#menu_topo li{
+	position:relative;
+	float:left;
+	}
+#menu_topo ul li a{
+	float:left;
+	text-transform:uppercase;
+	display:block;
+	padding:12px 6px 12px 5px;
+	font:10px Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	margin:-14px 0 0 0;
+	color:#FFF;
+	}
+#menu_topo li .a{
+	margin:-14px 0 1px -13px;
+	}
+#menu_topo li a:hover{
+	background:#900;
+	}
+#menu_topo img{
+	float:left;
+	}
+#menu_topo .img{
+	margin:-16px 0 0 -15px;
+	float:left;
+	}
+#menu_topo img{
+	margin:-16px 0 0 0;
+	float:left;
+	}
+#menu_topo li ul{
+	display:none;
+	width:170px;
+	position:absolute;
+	top:23px;
+	padding:3px;
+	border:1px solid #CCC;
+	background:#333;
+	left:-2px; 
+
+	-webkit-border-bottom-right-radius: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright: 10px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	}
+#menu_topo li:hover ul{
+	display:block;
+	}
+#menu_topo li ul a{
+	width:150px;
+	text-transform:uppercase;
+	background:#900;
+	float:left;
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:none;
+	padding:10px 10px 10px 10px;
+	margin:0 30px 1px 0px;
+	}
+#menu_topo li ul a:hover{
+	background:#963;
+	color:#FF0;
+	}

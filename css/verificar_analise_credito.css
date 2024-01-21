@@ -1,0 +1,125 @@
+#box_pagamento_1{
+	width:1015px;
+	height:auto;
+	background:#000;
+	margin:5px auto 5px auto;
+	text-transform:none;
+	color:#CCC;
+	border-radius:5px;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 h2{
+	font:100px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 h3{
+	font:100px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#3FF;
+	padding:20px;
+	background:#FF0;
+	border-radius:100px;
+	}
+#box_pagamento_1 h4{
+	font:30px Arial, Helvetica, sans-serif;
+	color:#690;
+	margin:-20px 0 0 0;
+	padding:0;
+	}
+#box_pagamento_1 table{
+	margin:3px;
+	text-transform:none;
+	text-align:center;
+	color:#CCC;
+	}
+#box_pagamento_1 table td{
+	border-radius:0px;
+	border:1px solid #999;
+	padding:5px;
+	text-transform:uppercase;
+	}
+#box_pagamento_1 table td a{
+	border-radius:0;
+	border:1px solid #999;
+	padding:5px;
+	text-transform:none;
+	text-decoration:none;
+	color:#FFF;
+	font:10px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 table td a:hover{
+	border:2px solid #FF0;
+	}
+#box_pagamento_1 .a{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#090;
+	padding:5px;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	margin:100px 0 20px 330px;
+	border:2px solid #000;
+	}
+#box_pagamento_1 .select{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:7px;
+	width:900px;
+	float:left;
+	height:43px;
+	padding:10px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .botao_avancar{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:7px 0 0 0;
+	width:80px;
+	padding:10px;
+	float:left;
+	height:43px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .botao_avancar2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 0;
+	width:100px;
+	padding:10px;
+	height:50px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+
+#box_pagamento_1 .valores{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:350px;
+	padding:10px;
+	height:40px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+
+
+#box_pagamento_1 select{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:373px;
+	padding:10px;
+	height:40px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}

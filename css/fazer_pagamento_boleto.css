@@ -1,0 +1,44 @@
+#box_pagamento_1{
+	width:1000px;
+	height:auto;
+	background:#FFF;
+	text-transform:none;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	font:20px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:5px;
+	text-transform:uppercase;
+	}
+#box_pagamento_1 .input{
+	font:28px Arial, Helvetica, sans-serif;
+	margin:5px 3px 0 5px;
+	float:none;
+	width:797px;
+	height:40px;
+	padding:10px;
+	color:#F90;
+	text-transform:uppercase;
+	border:1px solid #000;
+	border-radius:5px;
+	}
+#box_pagamento_1 .input2{
+	font:28px Arial, Helvetica, sans-serif;
+	margin:5px 0 5px 0;
+	float:none;
+	width:160px;
+	height:60px;
+	padding:10px;
+	color:#F90;
+	text-transform:uppercase;
+	border:1px solid #000;
+	border-radius:5px;
+	}
+#box_pagamento_1 .erro{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:5px;
+	text-transform:uppercase;
+	}

@@ -1,0 +1,14 @@
+#box{
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}
+#box select{
+	width:100px;
+	padding:3px;
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}
+#box .input{
+	width:60px;
+	padding:3px;
+	}

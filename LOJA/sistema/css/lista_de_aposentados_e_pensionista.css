@@ -1,0 +1,58 @@
+#box_cadastro_de_cliente{
+	width:1200px;
+	height:auto;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	}
+#box_cadastro_de_cliente h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_cadastro_de_cliente .h1{
+	margin:10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	}
+#box_cadastro_de_cliente input{
+	margin:10px 10px 20px 350px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:center;
+	padding:10px;
+	width:350px;
+	height:20px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input{
+	margin:10px 10px 10px 0;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:80px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente table{
+	margin:10px 10px 10px 5px;
+	font:10px Arial, Helvetica, sans-serif;
+	color:#666;
+	border:1px solid #CCC;
+	padding:10px;
+	text-transform:capitalize;
+	}
+#box_cadastro_de_cliente h2{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	margin:0;
+	float:left;
+	}

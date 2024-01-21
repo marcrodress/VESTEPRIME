@@ -1,0 +1,22 @@
+#box_visitas{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	margin:10px;
+	}	
+#box_visitas h1{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_visitas table{
+	font:12px Arial, Helvetica, sans-serif;
+	border:1px solid #666;
+	padding:5px;
+	}
+#box_visitas a{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#039;
+	}
+#box_visitas a:hover{
+	color:#000;
+	text-decoration:none;
+	}

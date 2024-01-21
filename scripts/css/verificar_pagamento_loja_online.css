@@ -1,0 +1,13 @@
+#box{
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box table{
+	font:12px Arial, Helvetica, sans-serif;
+	text-align:center;
+	}
+#box textarea{
+	font:15px Arial, Helvetica, sans-serif;
+	border:1px solid #000;
+	border-radius:5px;
+	padding:10px;
+	}

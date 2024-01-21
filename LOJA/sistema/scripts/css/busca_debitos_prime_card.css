@@ -1,0 +1,20 @@
+#box_debitos_do_mes{
+	height:auto;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box_debitos_do_mes h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_debitos_do_mes table{
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}
+#box_debitos_do_mes a{
+	text-decoration:none;
+	}
+#box_debitos_do_mes a:hover{
+	text-decoration:underline;
+	color:#F00;
+	}

@@ -1,0 +1,60 @@
+#box_analises_de_propostass{
+	width:1200px;
+	height:auto;
+	}
+#box_analises_de_propostass h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_analises_de_propostass h2{
+	margin:10px;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_analises_de_propostass table{
+	margin:10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	padding:5px;
+	border:1px solid #CCC;
+	}
+#box_analises_de_propostass table a{
+	color:#00F;
+	font:11px Arial, Helvetica, sans-serif;
+	}
+#box_analises_de_propostass select{
+	font:12px Arial, Helvetica, sans-serif;
+	padding:3px;
+	height:30px;
+	color:#999;
+	width:120px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_analises_de_propostass .input{
+	font:12px Arial, Helvetica, sans-serif;
+	padding:5px;
+	color:#999;
+	height:18px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_analises_de_propostass .input2{
+	font:12px Arial, Helvetica, sans-serif;
+	padding:5px;
+	color:#FFF;
+	background:#666;
+	height:30px;
+	cursor:pointer;
+	width:70px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}

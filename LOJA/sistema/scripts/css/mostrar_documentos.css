@@ -1,0 +1,14 @@
+#box{
+	width:auto;
+	}
+#box h1{
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box h2{
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box table{
+	font:12px Arial, Helvetica, sans-serif;
+	float:left;
+	color:#999;
+	}

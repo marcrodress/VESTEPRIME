@@ -1,0 +1,16 @@
+#box{
+	width:auto;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box table{
+	font:11px Arial, Helvetica, sans-serif;
+	text-align:center;
+	}
+#box input{
+	font:12px Arial, Helvetica, sans-serif;
+	width:120px;
+}
+#box .input{
+	font:12px Arial, Helvetica, sans-serif;
+	width:60px;
+	}

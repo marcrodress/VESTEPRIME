@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<script src="../dist/JsBarcode.all.js"></script>
+	<style>
+		body {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+			margin: 0;
+		}
+
+		#barcodeContainer {
+			text-align: center;
+		}
+	</style>
+	<script>
+		Number.prototype.zeroPadding = function(){
+			var ret = "" + this.valueOf();
+			return ret.length == 1 ? "0" + ret : ret;
+		};
+	</script>
+</head>
+<body>
+	<div id="barcodeContainer">
+		<img id="barcode1"/>
+		<script>
+			var url = new URL(window.location.href);			
+			var produto = url.searchParams.get("produto");
+			JsBarcode("#barcode1", produto);
+			
+			print();
+        </script>
+	</div>
+    
+ 
+</body>
+</html>

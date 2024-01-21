@@ -1,0 +1,43 @@
+#box_cad_produto{
+	background:#FFF;
+	width:1195px;
+	font:12px Arial, Helvetica, sans-serif;
+	height:auto;
+	margin:20px auto 5px 5px;
+	}
+	
+#box_cad_produto h1{
+	font:20px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-align:left;
+	}
+#box_cad_produto h2{
+	font:15px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-align:left;
+	}
+	
+#box_cad_produto select{
+	font:20px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-align:left;
+	border:1px solid #000;
+	border-radius:3px;
+	color:#FC0;
+	}
+	
+#box_cad_produto input{
+	font:20px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-align:left;
+	border:1px solid #000;
+	border-radius:3px;
+	color:#000;
+	}
+	
+#box_cad_produto .table{
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	text-align:center;
+	}
+

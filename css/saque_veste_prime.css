@@ -1,0 +1,258 @@
+#box_cliente{
+	width:1000px;
+	height:58px;
+	margin:0 auto 0 auto;
+	background:#FFF;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#box_cliente h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	width:1000px;
+	margin:3px 0 3px 3px;
+	}	
+	
+#box_fecha_carrinho{
+	width:1000px;
+	height:200px;
+	margin:0 auto 0 auto;
+	background:#FFF;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#box_cliente .strong{
+	color:#00F;
+	}
+#box_cliente .strong2{
+	color:#000;
+	margin:0 auto 0 10px;
+	}
+#box_fecha_carrinho .h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:3px 0 3px 3px;
+	}
+#box_fecha_carrinho .a{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:0px 0 20px 350px;
+	border:2px solid #000;
+	}
+	
+	
+	
+	
+#box_corpo{
+	width:1000px;
+	height:500px;
+	margin:5px auto 5px auto;
+	border:0px solid #CCC;
+	}
+	
+#pagamento{
+	float:left;
+	width:480px;
+	height:345px;
+	margin:0 auto 0 auto;
+	background:#FFF;
+	text-align:justify;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#pagamento ul li{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:5px 0 15px 0;
+	width:410px;
+	}
+	
+#pagamento h1{
+	float:left;
+	width:480px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:2px 0 3px 10px;
+	}
+#pagamento table{
+	float:left;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#06C;
+	margin:2px 0 3px 0;
+	}
+#pagamento select{
+	width:340px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#00F;
+	padding:5px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:5px;
+	border:1px solid #000;
+	}
+#pagamento .select{
+	width:200px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#00F;
+	padding:5px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:5px;
+	border:1px solid #000;
+	}
+#pagamento input{
+	width:100px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#00F;
+	padding:5px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:5px;
+	border:1px solid #000;
+	}
+#pagamento .input5{
+	width:90px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#00F;
+	padding:5px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:5px;
+	border:1px solid #000;
+	}
+#pagamento .input{
+	width:130px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#00F;
+	padding:8px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:5px;
+	border:1px solid #000;
+	}
+#pagamento .input2{
+	width:100px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#00F;
+	padding:8px;
+	text-align:center;
+	margin:-10px 0 0 3px;
+	border-radius:5px;
+	border:1px solid #000;
+	}
+
+#pagamento a{
+	width:300px;
+	float:left;
+	color:#FFF;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:150px 0 -25px 80px;
+	border:2px solid #000;
+	}
+	
+	
+#box_compras{
+	float:right;
+	width:510px;
+	height:440px;
+	overflow:auto;
+	margin:0 0 0 auto;
+	background:#FFF;
+	font:10px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	border:3px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#box_compras table{
+	text-align:center;
+	font:10px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}
+#box_compras input{
+	width:15px;
+	text-align:center;
+	border:1px solid #FFF;
+	}
+			
+	
+#valor_compras{
+	float:left;
+	width:480px;
+	height:90px;
+	margin:5px auto 0 auto;
+	background:#FFF;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#valor_compras h1{
+	float:left;
+	text-align:center;
+	width:480px;
+	font:30px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:3px 0 3px 3px;
+	}		
+#valor_compras .strong3{
+	color:#F00;
+	margin:0 0 0 0;
+	}
+#valor_compras h2{
+	float:left;
+	text-align:center;
+	width:480px;
+	font:19px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:-3px 0 3px 3px;
+	}		
+
+	
+#avisos{
+	float:left;
+	width:480px;
+	height:227px;
+	margin:5px auto 0 auto;
+	background:#FFF;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#avisos h1{
+	float:left;
+	text-align:center;
+	width:460px;
+	font:26px Arial, Helvetica, sans-serif;
+	color:#090;
+	margin:10px 0 3px 3px;
+	}	
+#avisos h2{
+	float:left;
+	text-align:center;
+	width:460px;
+	font:15px Arial, Helvetica, sans-serif;
+	color:#660;
+	margin:15px 0 3px 3px;
+	}	

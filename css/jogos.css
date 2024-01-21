@@ -1,0 +1,639 @@
+#box_corpo{
+	width:1000px;
+	height:600px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	}
+#box_corpo h1{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_corpo li{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+	
+
+#box_fazer_pagamento_jogo{
+	width:1000px;
+	height:400px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	}
+#box_fazer_pagamento_jogo h1{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_fazer_pagamento_jogo li{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_fazer_pagamento_jogo h2{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-align:center;
+	margin:100px 0 20px  0;
+	width:990px;
+	}
+#box_fazer_pagamento_jogo table{
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_fazer_pagamento_jogo input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0;
+	width:280px;
+	padding:15px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_fazer_pagamento_jogo .input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 0  0;
+	width:200px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_fazer_pagamento_jogo .input2{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:10px 0 0  400px;
+	width:200px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_fazer_pagamento_jogo select{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 0 300px; 
+	width:400px;
+	padding:10px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_fazer_pagamento_jogo .select{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0; 
+	width:313px;
+	padding:10px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_fazer_pagamento_jogo a{
+	width:300px;
+	float:center;
+	color:#FFF;
+	background:#090;
+	padding:5px;
+	text-decoration:none;
+	margin:-10px 0 -25px 320px;
+	border:2px solid #000;
+	}
+	
+
+
+
+	
+
+
+	
+	
+
+
+
+#box_verifica_proximos_jogos{
+	width:1000px;
+	height:500px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	overflow:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_verifica_proximos_jogos h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_verifica_proximos_jogos h2{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-align:center;
+	margin:100px 0 20px  0;
+	width:990px;
+	}
+#box_verifica_proximos_jogos table{
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:5px;
+	}
+#box_verifica_proximos_jogos select{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0; 
+	width:325px;
+	padding:5px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_verifica_proximos_jogos .input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 420px; 
+ 	width:150px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+
+
+
+
+#box_cancela_jogo{
+	width:1000px;
+	height:400px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_cancela_jogo h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_cancela_jogo h2{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-align:center;
+	margin:100px 0 20px  0;
+	width:990px;
+	}
+#box_cancela_jogo table{
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_cancela_jogo input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0;
+	width:280px;
+	padding:15px;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_cancela_jogo .input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0;
+	width:200px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_cancela_jogo a{
+	width:300px;
+	float:center;
+	color:#FFF;
+	background:#090;
+	padding:5px;
+	text-decoration:none;
+	margin:-10px 0 -25px 400px;
+	border:2px solid #000;
+	}
+	
+	
+
+
+
+#box_busca_bilhete_jogo{
+	width:1000px;
+	height:500px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	overflow:auto;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_busca_bilhete_jogo h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_busca_bilhete_jogo h2{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-align:center;
+	margin:100px 0 20px  0;
+	width:990px;
+	}
+#box_busca_bilhete_jogo table{
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:5px;
+	}
+#box_busca_bilhete_jogo input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 300px; 
+	width:350px;
+	padding:15px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_busca_bilhete_jogo .input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 420px; 
+ 	width:150px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+	
+
+#box_corpo{
+	width:1000px;
+	height:600px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	}
+#box_corpo h1{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_corpo li{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+
+
+#box_resultado_jogo{
+	width:1000px;
+	height:400px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	text-transform:uppercase;
+	border-radius:5px;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_resultado_jogo h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_resultado_jogo h2{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-align:center;
+	margin:100px 0 20px  0;
+	width:990px;
+	}
+#box_resultado_jogo table{
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:2px;
+	text-align:center;
+	text-transform:uppercase;
+	}
+#box_resultado_jogo input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 300px; 
+	width:350px;
+	padding:15px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_resultado_jogo .input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 420px; 
+ 	width:150px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+
+
+#box_conferir_bilhete{
+	width:1000px;
+	height:400px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_conferir_bilhete h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_conferir_bilhete h2{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-align:center;
+	margin:100px 0 20px  0;
+	width:990px;
+	}
+#box_conferir_bilhete table{
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_conferir_bilhete input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 300px; 
+	width:350px;
+	padding:15px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_conferir_bilhete .input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 420px; 
+ 	width:150px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+
+
+
+#box_reemprimir{
+	width:1000px;
+	height:400px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_reemprimir h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_reemprimir h2{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	text-align:center;
+	margin:100px 0 20px  0;
+	width:990px;
+	}
+#box_reemprimir table{
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_reemprimir input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 300px; 
+	width:350px;
+	padding:15px;
+	text-align:center;
+	color:#F00;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_reemprimir .input{
+	text-transform:none;
+	font:25px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 420px; 
+ 	width:150px;
+	padding:15px;
+	color:#000;
+	border:1px solid #000;
+	border-radius:10px;
+	}
+#box_reemprimir a{
+	width:200px;
+	float:left;
+	color:#FFF;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:0px 0 -25px 400px;
+	border:2px solid #000;
+	}
+
+
+
+#box_fazer_jogo_bolao_da_sorte{
+	width:1000px;
+	height:600px;
+	text-align:center;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	}
+#box_fazer_jogo_bolao_da_sorte h1{
+	font:30px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	text-align:center;
+	margin:10px auto 50px auto;
+	width:990px;
+	}
+#box_fazer_jogo_bolao_da_sorte input{
+	width:480px;
+	height:58px;
+	text-align:center;
+	color:#900;
+	font:50px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	margin:auto;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:10px;
+	}
+#box_fazer_jogo_bolao_da_sorte .input{
+	width:100px;
+	height:58px;
+	text-align:center;
+	color:#900;
+	font:20px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	margin:5px auto auto auto;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:10px;
+	}
+#box_fazer_jogo_bolao_da_sorte table{
+	margin:5px auto auto 5px;
+	font:15px Arial, Helvetica, sans-serif;
+	padding:0;
+	}
+
+
+#box_fazer_jogo_bolao_da_sorte .input2{
+	width:480px;
+	float:left;
+	height:58px;
+	text-align:center;
+	color:#900;
+	font:50px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	margin:-40px auto 10px 200px;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:10px;
+	}
+#box_fazer_jogo_bolao_da_sorte .input3{
+	width:100px;
+	margin:-40px auto auto 5px;
+	float:left;
+	height:58px;
+	text-align:center;
+	color:#900;
+	font:20px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:10px;
+	}
+#box_fazer_jogo_bolao_da_sorte table{
+	margin:5px auto auto 5px;
+	font:15px Arial, Helvetica, sans-serif;
+	padding:0;
+	border:2px solid #CCC;
+	}
+	
+
+
+#box_fazer_jogo_bolao_da_sorte .input4{
+	width:100px;
+	float:left;
+	height:58px;
+	text-align:center;
+	color:#900;
+	font:50px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	margin:0 0 0 0;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:10px;
+	}
+#box_fazer_jogo_bolao_da_sorte .input5{
+	width:100px;
+	margin:0 0 0 0;
+	height:58px;
+	text-align:center;
+	color:#900;
+	font:20px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:10px;
+	}
+#box_fazer_jogo_bolao_da_sorte h2{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#00F;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+	
+#box_fazer_jogo_bolao_da_sorte .input6{
+	width:300px;
+	margin:0 0 0 0;
+	height:58px;
+	text-align:center;
+	color:#900;
+	font:20px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:10px;
+	}
+
+#box_fazer_jogo_bolao_da_sorte a{
+	width:200px;
+	float:left;
+	color:#FFF;
+	background:#090;
+	padding:5px;
+	text-decoration:none;
+	margin:-50px 0 -25px 400px;
+	border:2px solid #000;
+	}
+#box_fazer_jogo_bolao_da_sorte .table{
+	float:left;
+	margin:-18px 0 0 5px;
+	}

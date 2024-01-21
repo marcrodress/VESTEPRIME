@@ -1,0 +1,122 @@
+#box_plano_canada{
+	width:1000px;
+	height:350PX;
+	background:#000;
+	margin:5px auto 5px auto;
+	border:1px solid #000;
+	border-radius:5px;
+	color:#CCC;
+	text-decoration:none;
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+
+#despesas_previstas{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px 10px 10px 25px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+
+#faturas_fechadas{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+	
+#faturas_a_receber{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+	
+#saldo_bancario{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+	
+#investimento_bancario{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+	
+#emprestimos{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px 10px 10px 25px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+
+#previsto{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+
+#capitalizacao{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+
+#saldo_atual{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}
+
+#ainda_falta{
+	float:left;
+	width:170px;
+	border:1px solid #CCC;
+	height:100px;
+	margin:10px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	}

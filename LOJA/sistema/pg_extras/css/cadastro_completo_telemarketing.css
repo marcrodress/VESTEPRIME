@@ -1,0 +1,42 @@
+body{padding:0; margin:0; font:12px Arial, Helvetica, sans-serif;}
+
+body table{
+	width:800px;
+	padding:3px;
+	border:1px solid #333;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#960;
+	}
+
+body input{
+	padding:5px;
+	height:10px;
+	background:#FFF;
+	border:1px solid #333;
+	font:10px Arial, Helvetica, sans-serif;
+	color:#000;
+	border:1px solid #CCC;
+	}
+
+body textarea{
+	width:963px;
+	padding:5px;
+	height:60px;
+	background:#FFF;
+	border:1px solid #333;
+	font:9px Arial, Helvetica, sans-serif;
+	color:#960;
+	}
+
+body .input{
+	width:100px;
+	padding:5px;
+	height:30px;
+	background:#FFF;
+	border:1px solid #333;
+	font:10px Arial, Helvetica, sans-serif;
+	color:#000;
+	cursor:pointer;
+	border:1px solid #000;
+	}
+

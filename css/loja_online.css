@@ -1,0 +1,65 @@
+#box_pagamento_1{
+	width:1200px;
+	height:auto;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:10px;
+	font:20px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#menu_loja{
+	background:url(../img/menu_loja_online.fw.png) repeat-x;
+	width:1190px;
+	height:40px;
+	border:1px solid #666;
+	border-radius:10px;
+	margin:0 0 5px 3px;
+	}
+#menu_loja ul{
+	list-style:none;
+	margin:17px 5px 0 -30px;	
+	}
+#menu_loja ul li{
+	display:inline;
+	}
+#menu_loja ul li a{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	text-decoration:none;
+	padding:11px 12px 10px 12px;
+	background:#B95C00;
+	float:left;
+	margin:-15px 3px 0 3px;
+	border:1px solid #000;
+	
+	raio da borda: 5px 5px 0px 0px;
+	-moz-raio-borda: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;
+	borda: 0px sólido # 000000;
+	}
+#menu_loja ul li a:hover{
+	background:url(../img/menu_loja_online_hover.fw.png);
+	}
+
+
+#selecao_produtos{
+	width:1190px;
+	height:2870px;
+	margin:5px;
+	}
+
+#selecao_produtos_grade{
+	float:left;
+	width:285px;
+	height:390px;
+	text-align:center;
+	border:1px solid #CCC;
+	margin:10px 5px 0px 5px;
+	}
+#selecao_produtos_grade:hover{
+	border:1px solid #09F;
+	}

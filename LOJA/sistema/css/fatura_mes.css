@@ -1,0 +1,22 @@
+#box_faturas_do_mes{
+	width:1200px;
+	height:auto;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	}
+#box_faturas_do_mes h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_faturas_do_mes table{
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}
+#box_faturas_do_mes a{
+	text-decoration:none;
+	}
+#box_faturas_do_mes a:hover{
+	text-decoration:underline;
+	color:#F00;
+	}

@@ -1,0 +1,9 @@
+body{padding:0; margin:0;}
+#box{
+	font:12px Arial, Helvetica, sans-serif;
+	width:300px;
+	}
+#box h1{
+	text-transform:uppercase;
+	font:12px Arial, Helvetica, sans-serif;
+	}

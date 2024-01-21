@@ -1,0 +1,138 @@
+#box_menu{
+	width:1000px;
+	height:auto;
+	background:#000;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	}
+#box_menu h1{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#box_menu li{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+
+
+#analise_rapida{
+	width:1000px;
+	height:auto;
+	background:#000;
+	margin:5px auto 5px auto;
+	border:1px solid #CCC;
+	border-radius:5px;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#analise_rapida h1{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#9C0;
+	float:left;
+	margin:10px;
+	width:990px;
+	}
+#analise_rapida li{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#analise_rapida input{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:10px;
+	background:#000;
+	text-align:center;
+	text-transform:uppercase;
+	color:#F90;
+	border:1px solid #000;
+	border-radius:5px;
+	}
+#analise_rapida select{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:10px;
+	text-align:left;
+	color:#666;
+	background:#000;
+	border:1px solid #000;
+	border-radius:5px;
+	}
+#analise_rapida .input{
+	text-transform:none;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0 0 0  0;
+	width:70px;
+	padding:10px;
+	color:#CCC;
+	border:1px solid #666;
+	border-radius:5px;
+	}
+#analise_rapida table{
+	font:12px "Courier New", Courier, monospace;
+	background:#000;
+	color:#999;
+	padding:10px;
+	margin:-10px 10px 10px -3px;
+	font-weight: bold;
+	}	
+#analise_rapida table td{
+	border-radius:0px;
+	text-align:center;
+	}
+	
+	
+#box_cadastro_de_cliente{
+	width:1023px;
+	height:860px;
+	background:#000;
+	margin:5px auto 5px auto;
+	border:2px solid #000;
+	border-radius:0;
+	}
+#box_cadastro_de_cliente h1{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#000;
+	float:left;
+	margin:0 0 0 0;
+	}
+#box_cadastro_de_cliente table{
+	font:12px Arial, Helvetica, sans-serif;
+	float:left;
+	border-radius:0;
+	padding:0;
+	text-transform:uppercase;
+	margin:-10px 10px 10px 0;
+	}
+#box_cadastro_de_cliente table td{
+	border-radius:0;
+	padding:5px;
+	}
+#box_cadastro_de_cliente input{
+	text-transform:uppercase;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:10px;
+	text-align:left;
+	background:#000;
+	color:#F90;
+	border:1px solid #000;
+	border-radius:5px;
+	}
+#box_cadastro_de_cliente select{
+	background:#000;
+	text-transform:uppercase;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:10px;
+	text-align:left;
+	color:#F90;
+	border:1px solid #000;
+	border-radius:5px;
+	}

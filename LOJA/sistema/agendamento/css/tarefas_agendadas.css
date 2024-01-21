@@ -1,0 +1,79 @@
+#box_agenda{
+	width:1200px;
+	height:auto;
+	}
+#box_agenda h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_agenda table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	border:1px solid #CCC;
+	padding:10px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_agenda strong{
+	}	
+#box_agenda h2{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#999;
+	margin:10px;
+	}	
+#box_agenda a{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#00F;
+	text-decoration:none;
+	margin:0 0 0 0;
+	}		
+#box_agenda hr{
+	border:1px solid #CCC;
+	}
+	
+/**/
+#box_agenda .a{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#333;
+	padding:5px;
+	float:left;
+	text-decoration:none;
+	margin:3px -200px 20px 200px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}	
+#box_agenda .input_input1{
+	margin:0 0 0 0px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:left;
+	padding:5px;
+	height:15px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_agenda .input_select{
+	margin:0 0 0 0px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:left;
+	padding:5px;
+	width:200px;
+	height:28px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}

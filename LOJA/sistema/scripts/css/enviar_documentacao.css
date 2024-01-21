@@ -1,0 +1,54 @@
+#box{
+	width:auto;
+	background:#900;
+	height:130px;
+	}
+#box table{
+	padding:5px;
+	background:#FFF;
+	width:600px;
+	margin:5px;
+	float:left;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box select{
+	padding:5px;
+	width:250px;
+	margin:5px;
+	float:left;
+	color:#F90;
+	font:12x Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box input{
+	padding:5px;
+	width:300px;
+	margin:5px;
+	color:#F90;
+	float:left;
+	font:12px Arial, Helvetica, sans-serif;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box .input{
+	padding:5px;
+	width:80px;
+	margin:5px;
+	height:35px;
+	cursor:pointer;
+	margin:0;
+	float:left;
+	color:#000;
+	font:12px Arial, Helvetica, sans-serif;
+	}
+
+#box .input:hover{	
+	border:1px solid #000;
+	}	

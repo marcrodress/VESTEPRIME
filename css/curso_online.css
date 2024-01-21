@@ -1,0 +1,32 @@
+#box_pagamento_1{
+	width:1000px;
+	height:auto;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	text-decoration:none;
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 ul{
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:none;
+	}
+#box_pagamento_1 ul li{
+	margin:10px 0 10px 0;
+	}
+#box_pagamento_1 ul li a{
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:none;
+	color:#00F;
+	}
+#box_pagamento_1 ul li a:hover{
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:none;
+	color:#F00;
+	}

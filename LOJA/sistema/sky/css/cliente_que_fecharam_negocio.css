@@ -1,0 +1,28 @@
+#box_clientes{
+	}
+#box_clientes h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_clientes h2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_clientes table{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	padding:3px;
+	border:1px solid #999;
+	}
+#box_clientes a{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#333;
+	}
+#box_clientes a:hover{
+	text-decoration:none;
+	}
+#box_clientes h3{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#999;
+	padding:5px;
+	}

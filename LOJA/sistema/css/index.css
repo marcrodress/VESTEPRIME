@@ -1,0 +1,11 @@
+#contente_site{
+	background:#FFF;
+	width:1200px;
+	height:auto;
+	margin:20px auto 5px auto;
+	border:1px solid #999;
+
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	}

@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="css/produtos_celulares.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+</script>
+</head>
+
+<body>
+<? require "topo.php";  require "scripts/verificador_caixa.php"; ?>
+
+<div id="box_pagamento_1">
+<h1><strong>CATEGÓRIAS DE PRODUTOS DIVERSOS</strong></h1>
+<hr />
+
+<? if(isset($_POST['cadastrarProduto'])){
+          
+    $categoria = $_POST['categoria1'];
+    $imagem = $_POST['imagem'];
+    $tipo = $_POST['tipo'];
+    $subtipo = $_POST['subtipo'];
+            
+    $sql = mysqli_query($conexao_bd, "SELECT * FROM categoriaProdutosDiversos WHERE nomeCategoria = '$categoria'");
+       if(mysqli_num_rows($sql) >= 1){
+           echo "<script language='javascript'>window.alert('Nome da categ&oacute;ria j&aacute; cadastrada!');</script>";
+        }else{
+            $codeCategoria = rand();
+            mysqli_query($conexao_bd, "INSERT INTO categoriaProdutosDiversos (code, nomeCategoria, tipo, subtipo, imagem) VALUES ('$codeCategoria', '$categoria', '$tipo', '$subtipo', '$imagem')");
+         }
+}?>
+<table width="946" border="0">
+  <tr>
+    <td colspan="8" align="center"><h3><strong>CADASTRO DE PRODUTOS DIVERSOS, MARCAS E MODELOS</strong></h3></td>
+  </tr>
+  <tr>
+    <td colspan="8" bgcolor="#339999"><strong>CATEGÓRIA DIVERSAS</strong></td>
+    </tr>
+  <form name="" action="" method="post" enctype="multipart/form-data">
+      <tr>
+        <td width="215" bgcolor="#339999"><strong>IMAGEM</strong></td>
+        <td width="150" bgcolor="#339966"><strong>TIPO</strong></td>
+        <td width="174" bgcolor="#339966"><strong>SUB TIPO</strong></td>
+        <td colspan="4" bgcolor="#0066CC"><strong>NOME DA CATEG&Oacute;RIA</strong></td>
+        <td width="76" rowspan="2" bgcolor="#0066CC">
+          <input class="input" type="submit" name="cadastrarProduto" id="button" value="Cadastrar" />
+        </td>
+       </tr>
+   <tr>
+    <td bgcolor="#FFFFFF"><input name="imagem" type="text" id="imagem" size="40" /></td>
+    <td width="150" bgcolor="#FFFFFF">
+      <select name="tipo" size="1" id="tipo">
+        <option value="PRODUTO">PRODUTO</option>
+        <option value="SERVICO">SERVICO</option>
+      </select></td>
+    <td width="174" bgcolor="#FFFFFF">
+      <select name="subtipo" id="subtipo">
+        <option value="ATIVO">ATIVO</option>
+        <option value="PASSIVO">PASSIVO</option>
+      </select></td>
+    <td colspan="4" bgcolor="#FFFFFF">
+    	<input name="categoria" type="text" size="30" />
+    </td>
+    </tr>
+  </form>
+  <tr>
+    <td colspan="8" bgcolor="#339999"><hr />      <strong>MARCA</strong></td>
+    </tr>
+  <tr>
+    <td bgcolor="#339999"><strong>IMAGEM</strong></td>
+    <td bgcolor="#339966"><strong>CATEG&Oacute;RIA DO PRODUTO</strong></td>
+    <td bgcolor="#339966"><strong>NOME DA MARCA</strong></td>
+    <td colspan="4" bgcolor="#0066CC">&nbsp;</td>
+    <td rowspan="2" bgcolor="#0066CC"><input class="input" type="submit" name="button" id="button2" value="Cadastrar" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><input name="imagem" type="text" id="imagem" size="40" /></td>
+    <td bgcolor="#FFFFFF"><label for="categoria"></label>
+      <select name="categoria" id="categoria">
+      </select></td>
+    <td bgcolor="#FFFFFF"><input name="marca" type="text" id="marca" size="20" /></td>
+    <td colspan="4" bgcolor="#FFFFFF">&nbsp;</td>
+    </tr>
+  <tr>
+    <td colspan="8" bgcolor="#339999"><hr />      <strong>MODELO/REF&Ecirc;NCIA</strong></td>
+    </tr>
+  <tr>
+    <td bgcolor="#339999"><strong>IMAGEM</strong></td>
+    <td bgcolor="#339966"><strong>CATEG&Oacute;RIA</strong></td>
+    <td bgcolor="#339966"><strong>MARCA</strong></td>
+    <td width="112" bgcolor="#0066CC"><strong>MODELO</strong></td>
+    <td width="62" bgcolor="#0066CC"><strong>COMPRA</strong></td>
+    <td width="62" bgcolor="#0066CC"><strong>VENDA</strong></td>
+    <td width="62" bgcolor="#0066CC"><strong>ESTOQUE</strong></td>
+    <td rowspan="2" bgcolor="#0066CC"><input class="input" type="submit" name="button2" id="button3" value="Cadastrar" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#FFFFFF"><input name="imagem" type="text" id="imagem" size="40" /></td>
+    <td bgcolor="#FFFFFF"><form name="form" id="form">
+      <select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)">
+        <option>item1</option>
+      </select>
+    </form></td>
+    <td bgcolor="#FFFFFF"><form name="form2" id="form2">
+      <select name="jumpMenu2" id="jumpMenu2" onchange="MM_jumpMenu('parent',this,0)">
+        <option>item1</option>
+      </select>
+    </form></td>
+    <td bgcolor="#FFFFFF"><label for="textfield">
+      <input name="categoria2" type="text" size="20" />
+    </label></td>
+    <td bgcolor="#FFFFFF"><input name="textfield" type="text" id="textfield" size="10" /></td>
+    <td bgcolor="#FFFFFF"><label for="textfield2"></label>
+      <input name="textfield2" type="text" id="textfield2" size="10" /></td>
+    <td bgcolor="#FFFFFF"><input name="textfield3" type="text" id="textfield3" size="10" /></td>
+    </tr>
+</table>
+ 
+</div><!-- box_pagamento_1 -->
+</body>
+</html>

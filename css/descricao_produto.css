@@ -1,0 +1,91 @@
+#box_pagamento_1{
+	width:1200px;
+	height:auto;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:10px;
+	font:20px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#09C;
+	}
+
+#descricao_produto{
+	width:1190px;
+	height:380px;
+	margin:3px;
+	}
+	
+#foto_produto{
+	width:410px;
+	height:380px;
+	float:left;
+	margin:0 0 0 0;
+	text-align:center;
+	}
+#foto_produto ul{
+	width:370px;
+	list-style:none;
+	margin:0px 0 0 0;
+	float:left;
+	text-align:center;
+	}
+#foto_produto ul li{
+	display:inline;
+	text-align:center;
+	margin:0 45px 0 -23px;
+	border:1px solid #CCC;
+	}
+#foto_produto ul li:hover{
+	border:1px solid #000;
+	}
+		
+#informacoes_basicas{
+	width:550px;
+	height:380px;
+	float:left;
+	margin:0 0 0 0;
+	text-align:left;
+	text-transform:none;
+	}
+#informacoes_basicas ul{
+	list-style:none;
+	margin:0 0 0 -30px;
+	}
+	
+#enviar_descricao_produto{
+	width:220px;
+	height:390px;
+	float:right;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	color:#06C;
+	text-align:center;
+	border:1px solid #000;
+	}
+#enviar_descricao_produto a{
+	text-decoration:none;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#F60;
+	width:200px;
+	float:left;
+	height:15px;
+	padding:10px;
+	}
+#enviar_descricao_produto a:hover{
+	color:#000;
+	}
+
+#descricao_produto_todo{
+	width:1190px;
+	height:auto;
+	margin:3px;
+	text-decoration:none;
+	font:10px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-transform:none;
+	}

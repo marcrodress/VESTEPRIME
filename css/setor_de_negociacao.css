@@ -1,0 +1,49 @@
+#box_cliente{
+	width:1000px;
+	height:autor;
+	margin:0 auto 0 auto;
+	background:#000;
+	color:#999;
+	border:1px solid #000;
+	}
+#box_cliente h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#888;
+	width:990px;
+	margin:10px;
+	}
+#box_cliente a{
+	text-decoration:none;
+	color:#0FF;
+	}
+#box_cliente table{
+	font:13px "Courier New", Courier, monospace;
+	color:#CCC;
+	width:1000px;
+	text-align:center;
+	margin:3px 0 3px 3px;
+	}
+#box_cliente table h3{
+	font:12px "Courier New", Courier, monospace;
+	padding:0;
+	color:#0FF;
+	margin:0;
+	}
+#box_cliente table h2{
+	font:18px "Courier New", Courier, monospace;
+	padding:0;
+	color:#F90;
+	margin:0;
+	}
+#box_cliente h5{
+	font:12px "Courier New", Courier, monospace;
+	padding:0;
+	color:#FF0;
+	margin:0;
+	}
+#box_cliente table h6{
+	font:20px "Courier New", Courier, monospace;
+	padding:0;
+	color:#0F0;
+	margin:0;
+	}

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Validação de Boleto em JavaScript Puro</title>
+</head>
+<body>
+
+    <form id="formBoleto">
+        <label for="codigoDeBarras">Código de Barras:</label>
+        <input type="text" id="codigoDeBarras" name="codigoDeBarras" placeholder="Digite o código de barras" required>
+        <button type="button" onclick="verificarBoleto()">Verificar</button>
+    </form>
+
+    <script>
+        function validarBoleto(codigoDeBarras) {
+            // Verifica se o código de barras tem 44 caracteres
+            if (codigoDeBarras.length !== 44) {
+                return false;
+            }
+
+            // Extrai as informações relevantes do código de barras
+            const camposLivres = codigoDeBarras.slice(4, 9) + codigoDeBarras.slice(10, 20) + codigoDeBarras.slice(21, 31);
+
+            // Calcula o dígito verificador
+            const dvCalculado = calcularDv(camposLivres);
+
+            // Obtém o dígito verificador do código de barras
+            const dvFornecido = parseInt(codigoDeBarras.charAt(32));
+
+            // Verifica se os dígitos verificadores são iguais
+            return dvCalculado === dvFornecido;
+        }
+
+        function calcularDv(camposLivres) {
+            let peso = 2;
+            let soma = 0;
+
+            // Inverte a string para começar da direita para a esquerda
+            const camposLivresInvertidos = camposLivres.split('').reverse().join('');
+
+            // Calcula a soma ponderada
+            for (let i = 0; i < camposLivresInvertidos.length; i++) {
+                let produto = parseInt(camposLivresInvertidos[i]) * peso;
+                soma += (produto > 9) ? produto - 9 : produto;
+                peso = (peso === 2) ? 1 : 2;
+            }
+
+            // Calcula o dígito verificador
+            const dv = (10 - (soma % 10)) % 10;
+            return dv;
+        }
+
+        function verificarBoleto() {
+            const codigoDeBarras = document.getElementById('codigoDeBarras').value;
+
+            if (validarBoleto(codigoDeBarras)) {
+                alert("Código de barras válido!");
+            } else {
+                alert("Código de barras inválido!");
+            }
+        }
+    </script>
+</body>
+</html>

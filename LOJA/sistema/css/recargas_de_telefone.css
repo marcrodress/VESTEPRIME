@@ -1,0 +1,62 @@
+#box_recarga_telefone{
+	width:1200px;
+	height:auto;
+	}
+#box_recarga_telefone h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_recarga_telefone table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	border:1px solid #CCC;
+	text-align:center;
+	padding:10px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_recarga_telefone input{
+	margin:10px 5px 10px 0;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:center;
+	padding:10px;
+	height:20px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_recarga_telefone .select{
+	margin:10px 5px 10px 0;
+	font:12px Arial, Helvetica, sans-serif;
+	padding:10px;
+	width:250px;
+	color:#CCC;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_recarga_telefone .input{
+	margin:10px 10px 10px 0;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:120px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+

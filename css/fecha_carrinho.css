@@ -1,0 +1,254 @@
+#box_cliente{
+	width:1000px;
+	height:58px;
+	margin:0 auto 0 auto;
+	background:#000;
+	border:1px solid #F60;
+	}
+#box_cliente h1{
+	font:18px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	width:1000px;
+	margin:3px 0 3px 3px;
+	}	
+	
+#box_fecha_carrinho{
+	width:1000px;
+	height:200px;
+	margin:0 auto 0 auto;
+	background:#000;
+	border:1px solid #000;
+	}
+#box_cliente .strong{
+	color:#00F;
+	}
+#box_cliente .strong2{
+	color:#000;
+	margin:0 auto 0 10px;
+	}
+#box_fecha_carrinho .h1{
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:3px 0 3px 3px;
+	}
+#box_fecha_carrinho .a{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:0px 0 20px 350px;
+	border:2px solid #000;
+	}
+	
+	
+	
+	
+#box_corpo{
+	width:1000px;
+	height:500px;
+	margin:5px auto 5px auto;
+	border:0px solid #CCC;
+	}
+	
+#pagamento{
+	float:left;
+	width:480px;
+	height:350px;
+	margin:0 auto 0 auto;
+	background:#000;
+	text-align:justify;
+	border:1px solid #666;
+	}
+#pagamento ul li{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:5px 0 15px 0;
+	width:410px;
+	}
+	
+#pagamento h1{
+	float:left;
+	width:480px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	margin:2px 0 3px 10px;
+	}
+#pagamento table{
+	float:left;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#777;
+	margin:2px 0 3px 0;
+	}
+#pagamento select{
+	width:340px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#999;
+	padding:5px;
+	text-align:center;
+	background:#333;
+	margin:0 0 0 10px;
+	border-radius:0;
+	border:1px solid #000;
+	}
+#pagamento .select{
+	width:200px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#960;
+	padding:5px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:5px;
+	border:1px solid #CCC;
+	}
+#pagamento input{
+	width:100px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#390;
+	background:#000;
+	padding:5px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:0;
+	border:1px solid #CCC;
+	}
+#pagamento .input5{
+	width:90px;
+	font:25px Arial, Helvetica, sans-serif;
+	color:#00F;
+	padding:5px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:0;
+	border:1px solid #CCC;
+	}
+#pagamento .input{
+	width:130px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	padding:8px;
+	text-align:center;
+	margin:0 0 0 10px;
+	border-radius:0;
+	border:1px solid #CCC;
+	}
+#pagamento .input2{
+	width:105px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#888;
+	padding:8px;
+	text-align:center;
+	margin:-10px 0 0 3px;
+	border-radius:0;
+	border:1px solid #CCC;
+	}
+
+#pagamento a{
+	width:300px;
+	float:left;
+	color:#FFF;
+	background:#000;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:150px 0 -25px 80px;
+	border:2px solid #000;
+	}
+	
+	
+#box_compras{
+	float:right;
+	width:510px;
+	height:440px;
+	overflow:auto;
+	margin:0 0 0 auto;
+	background:#000;
+	font:10px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	border:1px solid #CCC;
+	color:#CCC;
+	}
+#box_compras a{
+	color:#690;
+	}
+#box_compras table{
+	text-align:center;
+	font:10px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}
+#box_compras input{
+	width:15px;
+	text-align:center;
+	background:#000;
+	color:#CCC;
+	border:1px solid #000;
+	}
+#box_compras .a_desconto{
+	text-decoration:none;
+	color:#CCC;
+	}
+#box_compras .a_desconto:hover{
+	text-decoration:underline;
+	color:#999;
+	}
+			
+	
+#valor_compras{
+	float:left;
+	width:480px;
+	height:90px;
+	margin:5px auto 0 auto;
+	background:#000;
+	border:1px solid #888;
+	}
+#valor_compras h1{
+	float:left;
+	text-align:center;
+	width:480px;
+	font:30px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	margin:3px 0 3px 3px;
+	}		
+#valor_compras .strong3{
+	color:#F00;
+	margin:0 0 0 0;
+	}
+#valor_compras h2{
+	float:left;
+	text-align:center;
+	width:480px;
+	font:19px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	margin:-3px 0 3px 3px;
+	}		
+
+	
+#avisos{
+	float:left;
+	width:480px;
+	height:227px;
+	margin:5px auto 0 auto;
+	background:#FFF;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#avisos h1{
+	float:left;
+	text-align:center;
+	width:460px;
+	font:26px Arial, Helvetica, sans-serif;
+	color:#090;
+	margin:10px 0 3px 3px;
+	}	
+#avisos h2{
+	float:left;
+	text-align:center;
+	width:460px;
+	font:15px Arial, Helvetica, sans-serif;
+	color:#660;
+	margin:15px 0 3px 3px;
+	}	

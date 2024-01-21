@@ -1,0 +1,84 @@
+body{ padding:0; margin:0;}
+
+#box{
+	}
+
+#box table{
+	border:5px solid #039;
+	font:15px Arial, Helvetica, sans-serif;
+	border-radius:10px;
+	}
+
+#box table td{
+	border-radius:10px;
+	border:1px solid #CCC;
+	padding:0px 0px 0px 5px;
+	}
+
+#box .h1{
+	font:25px Arial, Helvetica, sans-serif;
+	padding:3px;
+	width:400px;
+	border-radius:10px;
+	color:#FFF;
+	text-transform:uppercase;
+	border:2px solid #CCC;
+	margin:-5px 0 1px 0;
+	background:#066;
+	}
+
+#box .h2{
+	font:15px Arial, Helvetica, sans-serif;
+	padding:0;
+	margin:0;
+	text-transform:uppercase;
+	}
+
+#box .h3{
+	font:18px Arial, Helvetica, sans-serif;
+	padding:0;
+	margin:0;
+	}
+
+#box .h4{
+	font:35px Arial, Helvetica, sans-serif;
+	padding:0;
+	color:#FFF;
+	margin:0;
+	}
+
+#box .h5{
+	font:18px Arial, Helvetica, sans-serif;
+	padding:0;
+	margin:0;
+	color:#FFF;
+	}
+
+#box .h6{
+	font:35px Arial, Helvetica, sans-serif;
+	padding:0;
+	color:#FFF;
+	margin:0;
+	}	
+	
+	
+#box ul{
+	float:left;
+	list-style:none;
+	margin:5px 0 5px 0;
+	padding:0;
+	}
+#box ul .li{
+	list-style:none;
+	text-align:justify;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:5px 0 15px 0;
+	padding:0;
+	}
+#box ul li{
+	list-style:none;
+	text-align:justify;
+	font:12px Arial, Helvetica, sans-serif;
+	margin:5px 0 5px 0;
+	padding:0;
+	}

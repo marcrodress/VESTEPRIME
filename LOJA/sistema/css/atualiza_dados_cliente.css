@@ -1,0 +1,197 @@
+#box_cadastro_de_cliente{
+	width:1000px;
+	height:auto;
+	}
+#box_cadastro_de_cliente .h12{
+	float:left;
+	margin:170px 0 5px 360px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_cadastro_de_cliente table{
+	font:12px Arial, Helvetica, sans-serif;
+	background:#FFF;
+	padding:10px;
+	margin:10px 10px 10px 30px;
+	}
+#box_cadastro_de_cliente .input4{
+	float:left;
+	font:18px Arial, Helvetica, sans-serif;
+	width:400px;
+	text-align:center;
+	height:35px;
+	padding:10px;
+	margin:0 0 0 350px;
+	color:#900;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+#box_cadastro_de_cliente .input5{
+	font:12px Arial, Helvetica, sans-serif;
+	width:100px;
+	cursor:pointer;
+	height:55px;
+	padding:5px;
+	margin:0 0 0 5px;
+	color:#FFF;
+	background:#999;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+	}
+#box_cadastro_de_cliente h2{
+	margin:10px 0 0px 10px;
+	font:18px Arial, Helvetica, sans-serif;
+	color:#000;
+	}
+#box_cadastro_de_cliente p{
+	margin:0px 0 0px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	}
+#box_cadastro_de_cliente ul{
+	margin:0px 0 0px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	}
+#box_cadastro_de_cliente h1{
+	float:left;
+	margin:0px 0 0px 0;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_cadastro_de_cliente input{
+	float:left;
+	font:12px Arial, Helvetica, sans-serif;
+	width:350px;
+	height:15px;
+	padding:5px;
+	color:#999;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente input{
+	float:left;
+	font:12px Arial, Helvetica, sans-serif;
+	width:350px;
+	height:15px;
+	padding:5px;
+	color:#999;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente select{
+	font:12px Arial, Helvetica, sans-serif;
+	width:365px;
+	color:#999;
+	height:28px;
+	padding:5px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .select{
+	font:12px Arial, Helvetica, sans-serif;
+	width:128px;
+	height:28px;
+	color:#999;
+	padding:5px;
+	margin:0px 5px 0 0;
+	float:left;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .select1_2{
+	font:12px Arial, Helvetica, sans-serif;
+	width:88px;
+	height:28px;
+	color:#999;
+	padding:5px;
+	margin:0px 5px 0 5px;
+	float:left;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .select1_3{
+	font:12px Arial, Helvetica, sans-serif;
+	width:177px;
+	height:28px;
+	color:#999;
+	padding:5px;
+	margin:0px 5px 0 0;
+	float:left;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input1{
+	font:12px Arial, Helvetica, sans-serif;
+	width:165px;
+	height:15px;
+	padding:5px;
+	margin:0 4px 0 0;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input1_1{
+	font:12px Arial, Helvetica, sans-serif;
+	width:125px;
+	height:15px;
+	padding:5px;
+	margin:0 4px 0 0;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input3_2{
+	font:12px Arial, Helvetica, sans-serif;
+	width:75px;
+	height:15px;
+	padding:5px;
+	margin:0 4px 0 0;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input1_2{
+	font:12px Arial, Helvetica, sans-serif;
+	width:90px;
+	height:40px;
+	cursor:pointer;
+	padding:5px;
+	margin:-10px 4px 0 42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input1_2:hover{
+	border:1px solid #000;
+	}

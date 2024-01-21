@@ -1,0 +1,31 @@
+#box_caixa{
+	}
+#box_caixa h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#666;
+	}
+#box_caixa .a{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#CCC;
+	text-decoration:none;
+	padding:5px;
+	background:#666;
+	}
+#box_caixa .a:hover{
+	border:1px solid #090;
+	color:#FFF;
+	}
+#box_caixa h2{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#666;
+	}
+#box_caixa table{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	margin:10px;
+	border:1px solid #999;
+	padding:5px;
+	}

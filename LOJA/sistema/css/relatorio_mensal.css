@@ -1,0 +1,15 @@
+#box_relatorio_mensal{
+	background:#FFF;
+	width:1195px;
+	height:auto;
+	margin:20px auto 5px 5px;
+	}
+#box_relatorio_mensal h1{
+	font:20px Arial, Helvetica, sans-serif;
+	padding:0;
+	margin:0;
+	}
+#box_relatorio_mensal table{
+	text-align:center;
+	font:12px Arial, Helvetica, sans-serif;
+	}

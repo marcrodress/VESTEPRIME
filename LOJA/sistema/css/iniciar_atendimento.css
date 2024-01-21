@@ -1,0 +1,45 @@
+#box{
+	width:600px;
+	border:1px solid #CCC;
+	padding:5px;
+	}
+#box table{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	}
+#box input{
+	font:10px Arial, Helvetica, sans-serif;
+	color:#000;
+	width:187px;
+	height:20px;
+	padding:3px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box select{
+	font:10px Arial, Helvetica, sans-serif;
+	color:#000;
+	width:187px;
+	height:28px;
+	padding:3px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box .input{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#000;
+	width:80px;
+	cursor:pointer;
+	height:33px;
+	padding:3px;
+	margin:0 0 0 30px;
+	}
+#box .input:hover{
+	border:1px solid #999;
+	}

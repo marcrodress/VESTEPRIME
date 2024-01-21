@@ -1,0 +1,341 @@
+#box_cadastro_de_cliente{
+	width:1200px;
+	height:auto;
+	}
+#box_cadastro_de_cliente h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_cadastro_de_cliente select{
+	margin:10px 5px 0px 0;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:center;
+	padding:10px;
+	width:300px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente input{
+	margin:10px -255px 20px 260px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:center;
+	padding:10px;
+	width:255px;
+	height:20px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input3{
+	margin:10px 0 0 0;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:left;
+	padding:10px;
+	width:300px;
+	height:20px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input{
+	margin:10px 10px 10px 260px;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:80px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_cadastro_de_cliente .input4{
+	margin:10px 10px 10px 500px;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:120px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+
+#box_cadastro_de_cliente table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	border:1px solid #CCC;
+	padding:10px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+	
+#box_cadastro_de_cliente .table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	border:1px solid #CCC;
+	padding:10px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}	
+#box_cadastro_de_cliente strong{
+	}	
+#box_cadastro_de_cliente h3{
+	font:11px Arial, Helvetica, sans-serif;
+	color:#999;
+	margin:3px 0 0 0;
+	}	
+#box_cadastro_de_cliente a{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#900;
+	padding:10px;
+	float:left;
+	text-decoration:none;
+	margin:3px 0 0 300px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}		
+#box_cadastro_de_cliente hr{
+	border:1px solid #CCC;
+	}
+
+
+/* Bradesco promotora*/
+#bradesco_promotora{
+	width:1200px;
+	height:auto;
+	}
+#bradesco_promotora h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#bradesco_promotora .input1{
+	margin:10px -295px 20px 300px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:center;
+	padding:10px;
+	width:255px;
+	height:20px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#bradesco_promotora .input{
+	margin:10px 10px 10px 300px;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:80px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#bradesco_promotora table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	border:1px solid #CCC;
+	padding:10px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+	
+#bradesco_promotora .table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	text-align:center;
+	border:1px solid #CCC;
+	padding:10px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}	
+#bradesco_promotora strong{
+	}	
+#bradesco_promotora h3{
+	font:11px Arial, Helvetica, sans-serif;
+	color:#999;
+	margin:3px 0 0 0;
+	}	
+#bradesco_promotora a{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#900;
+	padding:10px;
+	float:left;
+	text-decoration:none;
+	margin:3px 0 0 475px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}		
+#bradesco_promotora hr{
+	border:1px solid #CCC;
+	}
+#bradesco_promotora .a{
+	font:15px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#333;
+	padding:5px;
+	float:left;
+	text-decoration:none;
+	margin:3px -200px 20px 200px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}	
+#bradesco_promotora .input_input1{
+	margin:0 0 0 0px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:left;
+	padding:5px;
+	width:350px;
+	height:15px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#bradesco_promotora .input_select{
+	margin:0 0 0 0px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:left;
+	padding:5px;
+	width:370px;
+	height:28px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#bradesco_promotora .input4{
+	margin:10px 10px 10px 500px;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:130px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+
+
+/*================= box_analises_de_propostas ===========================*/
+#box_analises_de_propostass{
+	width:1200px;
+	height:auto;
+	}
+#box_analises_de_propostass h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#box_analises_de_propostass h2{
+	margin:10px;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_analises_de_propostass table{
+	margin:10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#666;
+	padding:5px;
+	border:1px solid #CCC;
+	}
+#box_analises_de_propostass table a{
+	color:#00F;
+	font:11px Arial, Helvetica, sans-serif;
+	}
+#box_analises_de_propostass select{
+	font:12px Arial, Helvetica, sans-serif;
+	padding:3px;
+	height:30px;
+	color:#999;
+	width:120px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_analises_de_propostass .input{
+	font:12px Arial, Helvetica, sans-serif;
+	padding:5px;
+	color:#999;
+	height:18px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#box_analises_de_propostass .input2{
+	font:12px Arial, Helvetica, sans-serif;
+	padding:5px;
+	color:#FFF;
+	background:#666;
+	height:30px;
+	cursor:pointer;
+	width:70px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}

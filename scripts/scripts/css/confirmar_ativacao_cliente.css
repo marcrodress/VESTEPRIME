@@ -1,0 +1,19 @@
+#box{
+	font:12px Arial, Helvetica, sans-serif;
+	}
+#box select{
+	width:200px;
+	padding:5px;
+	height:25px;
+	margin:0;
+	border:1px solid #CCC;
+	border-radius:5px;
+	}
+#box input{
+	width:80px;
+	padding:5px;
+	margin:0;
+	height:25px;
+	border:1px solid #CCC;
+	border-radius:5px;
+	}

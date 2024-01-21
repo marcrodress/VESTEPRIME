@@ -1,0 +1,154 @@
+body{background:#3C0C00; padding:0; margin:0; text-transform:uppercase;}
+
+#topo{
+	width:1000px;
+	height:60px;
+	margin:auto;
+	padding:0;
+	border:0px solid #FFF;
+	}
+	
+#box_corpo{
+	width:1000px;
+	height:500px;
+	margin:5px auto 5px auto;
+	border:0px solid #CCC;
+	}
+	
+#box_input{
+	float:left;
+	width:480px;
+	height:180px;
+	margin:0 auto 0 auto;
+	background:#FFF;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#box_input h1{
+	float:left;
+	width:480px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:10px;
+	}
+#box_input input{
+	float:left;
+	width:170px;
+	font:40px Arial, Helvetica, sans-serif;
+	color:#F60;
+	text-align:center;
+	margin:10px 3px 0 5px;
+	padding:20px;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;	
+	}
+#box_input select{
+	float:left;
+	width:100px;
+	font:20px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:10px 0 0 0;
+	padding:31px 0 31px 0;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;	
+	}
+#box_input .input1{
+	float:left;
+	width:150px;
+	font:30px Arial, Helvetica, sans-serif;
+	color:#000;
+	margin:10px 0 0 5px;
+	padding:26px;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;	
+	}
+
+	
+#box_simulacao{
+	float:right;
+	width:510px;
+	height:auto;
+	margin:0 auto 0 auto;
+	background:#FFF;
+	font:12px Arial, Helvetica, sans-serif;
+	border:1px solid #F60;
+	
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius:5px;
+	}
+#box_simulacao h1{
+	font:35px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#F60;
+	margin:0 0 5px 0;
+	}
+#box_simulacao h2{
+	font:20px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#000;
+	margin:5px;
+	}
+#box_simulacao .select{
+	font:15px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#000;
+	width:410px;
+	margin:5px 0 5px 5px;
+	padding:10px;
+	border-radius:5px;
+	}
+#box_simulacao .select2{
+	font:15px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#000;
+	width:200px;
+	margin:5px 0 5px 5px;
+	padding:10px;
+	border-radius:5px;
+	}
+#box_simulacao .input2{
+	font:15px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#000;
+	width:178px;
+	margin:5px 0 5px 5px;
+	padding:10px;
+	border-radius:5px;
+	border:1px solid #000;
+	}
+#box_simulacao .input{
+	font:15px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#FFF;
+	padding:10px;
+	width:80px;
+	background:#069;
+	border:1px solid #000;
+	margin:0 0 5px 5px;
+	cursor:pointer;
+	}
+
+
+#rodape{
+	width:1000px;
+	height:20px;
+	margin:auto;
+	font:12px Arial, Helvetica, sans-serif;
+	padding:0;
+	text-align:center;
+	color:#FFF;
+	border:0px solid #FFF;
+	}

@@ -1,0 +1,15 @@
+#box{
+	font:20px Arial, Helvetica, sans-serif;
+	text-align:justify;
+	margin:10px;
+	}
+	
+#box_produto{
+	border:1px solid #CCC;
+	border-radius:5px;
+	float:left;
+	height:550px;
+	width:400px;
+	margin:0 0 5px 20px;
+	text-align:center;
+	}

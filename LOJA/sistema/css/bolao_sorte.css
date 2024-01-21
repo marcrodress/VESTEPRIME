@@ -1,0 +1,37 @@
+#box_jogos{
+	background:#FFF;
+	width:1195px;
+	height:auto;
+	margin:20px auto 5px 5px;
+	}
+	
+#box_jogos h1{
+	font:20px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}
+	
+#box_jogos .a{
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	color:#FFF;
+	background:#090;
+	padding:10px;
+	text-decoration:none;
+	margin:10px 0 0 0;
+	border:1px solid #000;
+	}
+#box_jogos .a:hover{
+	background:#060;
+	}
+	
+#box_jogos .select{
+	float:right;
+	width:100px;
+	padding:10px;
+	margin:-26px 5px -20px 0;
+	}
+	
+#box_jogos table{
+	font:12px Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	}

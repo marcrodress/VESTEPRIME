@@ -1,0 +1,26 @@
+body{
+	padding:0; margin:0; text-transform:uppercase; font:12px Arial, Helvetica, sans-serif
+	}
+
+body table{
+	padding:0;
+	font:13px Arial, Helvetica, sans-serif;
+	margin:0;
+	text-align:center;
+	}
+body table h1{
+	padding:0;
+	color:#FFF;
+	margin:0;
+	}
+body h2{
+	padding:0;
+	color:#FFF;
+	font:20px Arial, Helvetica, sans-serif;
+	margin:0;
+	}
+body .h3{
+	color:#000;
+	font:15px Arial, Helvetica, sans-serif;
+	margin:0;
+	}

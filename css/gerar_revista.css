@@ -1,0 +1,20 @@
+body{background:#FFF;}
+#box_logo{
+	width:950px;
+	text-align:center;
+	border:10px solid #069;
+	height:1130px;
+	border-radius:30px;
+	background:#FFF;
+	}
+#conterner_produto{
+	height:1400px;
+}
+#box_produto{
+	width:950px;
+	border:0 solid #09F;
+	height:auto;
+	margin:10px 0 0 0;
+	border-radius:30px;
+	background:#FFF;
+	}

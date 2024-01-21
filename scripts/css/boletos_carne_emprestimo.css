@@ -1,0 +1,12 @@
+body{
+	font:12px Arial, Helvetica, sans-serif;
+	}
+body table td{
+	border:1px solid #CCC;
+	margin:0;
+	padding:0 0 0 15px;
+	border-radius:10px;
+	}
+body .img{
+	margin:2px 0 2px 0;
+	}

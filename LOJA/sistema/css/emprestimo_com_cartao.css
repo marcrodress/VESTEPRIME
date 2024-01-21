@@ -1,0 +1,123 @@
+#emprestimo_com_cartao{
+	width:1090px;
+	height:auto;
+	}
+#emprestimo_com_cartao{
+	width:1200px;
+	height:auto;
+	}
+#emprestimo_com_cartao h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#emprestimo_com_cartao .input_intro{
+	margin:10px -225px 20px 230px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#CCC;
+	text-align:center;
+	padding:10px;
+	width:300px;
+	height:20px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#emprestimo_com_cartao .input{
+	margin:10px 10px 10px 230px;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:80px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#emprestimo_com_cartao .input3{
+	margin:10px 10px 10px 0;
+	cursor:pointer;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	background:#999;
+	padding:10px;
+	width:180px;
+	height:42px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+#emprestimo_com_cartao .input2{
+	margin:0;
+	padding:0;
+	border:1px solid #CCC;
+	width:20px;
+	height:20px;
+	}
+#emprestimo_com_cartao table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	border:1px solid #CCC;
+	padding:10px;
+	text-align:center;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}
+	
+#emprestimo_com_cartao .table{
+	margin:10px 10px 10px 10px;
+	font:12px Arial, Helvetica, sans-serif;
+	color:#999;
+	text-align:center;
+	border:1px solid #CCC;
+	padding:10px;
+	border:1px solid #CCC;
+	
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	}	
+#emprestimo_com_cartao hr{
+	border:1px solid #CCC;
+	}
+
+
+/**/
+#confirma_emprestimo_com_cartao{
+	width:1090px;
+	height:auto;
+	background:#FFF;
+	margin:auto;
+	}
+#confirma_emprestimo_com_cartao{
+	width:1200px;
+	height:auto;
+	margin:0 auto 10px auto;
+	background:#FFF;
+	}
+#confirma_emprestimo_com_cartao h1{
+	margin:10px;
+	font:18px Arial, Helvetica, sans-serif;
+	}
+#confirma_emprestimo_com_cartao .img{
+	margin:0 0 0 100px;
+	}
+#confirma_emprestimo_com_cartao table{
+	margin:10px;
+	text-align:center;
+	font:15px Arial, Helvetica, sans-serif;
+	border:3px solid #999;
+	padding:5px;
+	}
+	

@@ -1,0 +1,30 @@
+#box_pagamento_1{
+	height:auto;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border-radius:5px;
+	text-decoration:none;
+	text-transform:none;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:0;
+	}
+#box_pagamento_1 table{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0;
+	text-align:center;
+	padding:0;
+	}
+#box_pagamento_1 input{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:5px;
+	text-align:center;
+	color:#F60;
+	margin:5px auto 5px auto;
+	border-radius:5px;
+	border:1px solid #000;
+	}

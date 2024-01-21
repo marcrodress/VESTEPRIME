@@ -1,0 +1,42 @@
+#box_pagamento_1{
+	width:1000px;
+	height:400px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:10px;
+	font:20px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 table{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:70px 10px 10px 0;
+	border:1px solid #00F;
+	border-radius:5px;
+	text-align:center;
+	}
+#box_pagamento_1 .a{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:50px 0 20px 350px;
+	border:2px solid #000;
+	}
+#box_pagamento_1 .a2{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#036;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:0px 0 20px 280px;
+	border:2px solid #000;
+	}

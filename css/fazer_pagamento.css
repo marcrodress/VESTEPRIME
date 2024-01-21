@@ -1,0 +1,513 @@
+#box_pagamento_1{
+	width:1000px;
+	height:auto;
+	color:#699;
+	background:#000;
+	margin:5px auto 5px auto;
+	border-radius:0;
+	font:20px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 h6{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 h2{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:10px;
+	color:#F00;
+	text-align:center;
+	text-transform:none;
+	}
+#box_pagamento_1 .h3{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:5px;
+	color:#FC0;
+	text-transform:none;
+	}
+#box_pagamento_1 .h5{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:5px 0 5px 0;
+	text-align:center;
+	width:985px;
+	color:#999;
+	text-transform:none;
+	}
+#box_pagamento_1 .select_type_juros{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:0;
+	width:30px;
+	height:25px;
+	padding:0;
+	text-align:center;
+	color:#F00;
+	text-transform:none;
+	border:1px solid #CCC;
+	border-radius:0;
+	}
+#box_pagamento_1 .input_juros{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:0;
+	padding:5px;
+	text-align:center;
+	color:#F00;
+	text-transform:none;
+	border:1px solid #CCC;
+	border-radius:0;
+	}
+#box_pagamento_1 .input_juros_button{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:0;
+	color:#F00;
+	text-transform:none;
+	border:1px solid #CCC;
+	border-radius:0;
+	}
+#box_pagamento_1 ul{
+	width:950px;
+	}
+#box_pagamento_1 li{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#900;
+	margin:3px;
+	text-transform:none;
+	}
+#box_pagamento_1 .avancar{
+	font:12px Arial, Helvetica, sans-serif;
+	color:#FFF;
+	text-decoration:none;
+	border:2px solid #000;
+	margin:10px;
+	text-transform:none;
+	padding:10px;
+	background:#036;
+	}
+#box_pagamento_1 .avancar:hover{
+	color:#CCC;
+	}
+#box_pagamento_1 .select{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	width:890px;
+	background:#000;
+	float:left;
+	padding:10px;
+	color:#CCC;
+	border:1px solid #666;
+	}
+#box_pagamento_1 .botao_avancar{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 0;
+	width:80px;
+	padding:10px;
+	float:left;
+	height:40px;
+	background:#000;
+	color:#CCC;
+	border:1px solid #666;
+	}
+#box_pagamento_1 .botao_avancar2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 0;
+	width:80px;
+	padding:10px;
+	float:left;
+	height:60px;
+	background:#000;
+	color:#CCC;
+	border:1px solid #333;
+	}
+#box_pagamento_1 .codigo_barras{
+	font:31px Arial, Helvetica, sans-serif;
+	margin:10px;
+	width:870px;
+	float:left;
+	padding:10px;
+	height:40px;
+	background:#000;
+	color:#CCC;
+	border:1px solid #111;
+	}
+#box_pagamento_1 .codigo_barras2{
+	font:33px Arial, Helvetica, sans-serif;
+	margin:10px;
+	width:955px;
+	float:left;
+	padding:10px;
+	height:50px;
+	background:#000;
+	color:#CCC;
+	border:1px solid #111;
+	}
+#box_pagamento_1 .codigo_barras3{
+	font:33px Arial, Helvetica, sans-serif;
+	margin:0 0 10px 10px;
+	width:955px;
+	padding:10px;
+	text-align:center;
+	height:50px;
+	background:#000;
+	color:#CCC;
+	border:1px solid #666;
+	}
+#box_pagamento_1 .valores{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:350px;
+	padding:8px;
+	height:30px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:0;
+	}
+#box_pagamento_1 .valores2{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:362px;
+	padding:5px;
+	height:20px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:0;
+	}
+#box_pagamento_1 .botao_avancar3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 0;
+	width:150px;
+	padding:10px;
+	height:50px;
+	border:1px solid #666;
+	
+	border-radius:0;
+	}
+#box_pagamento_1 .a{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:200px 0 20px 300px;
+	border:2px solid #000;
+	}
+#box_pagamento_1 select{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:373px;
+	padding:10px;
+	height:40px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:0;
+	}
+	
+	
+	
+	
+	
+#pagamento{
+	width:450px;
+	height:540px;
+	float:left;
+	text-align:center;
+	background:#000;
+	margin:5px auto 5px auto;
+	border:1px solid #555;
+	border-radius:0;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#pagamento select{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:5px 0 0 5px;
+	width:300px;
+	padding:10px;
+	height:40px;
+	color:#F90;
+	text-transform:uppercase;
+	border:1px solid #666;
+	border-radius:0;
+	background:#000;
+	}
+#pagamento input{
+	font:25px Arial, Helvetica, sans-serif;
+	margin:-2px 0 0 0;
+	padding:5px;
+	text-align:center;
+	color:#F90;
+	height:27px;
+	background:#000;
+	text-transform:uppercase;
+	border:1px solid #666;
+	border-radius:0;
+	}
+#pagamento img{
+	border-radius:0;
+	margin:30px 0 0 0;
+	}
+#opcoes_de_parcelamento{
+	width:450px;
+	height:400px;
+	text-align:left;
+	float:left;
+	color:#CCC;
+	background:#000;
+	margin:0 auto 0 auto;
+	border-radius:0;
+	font:15px Arial, Helvetica, sans-serif;
+	}	
+#opcoes_de_parcelamento h3{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:5px;
+	width:450px;
+	border:1px solid #000;	
+	}
+#opcoes_de_parcelamento .aa{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0 5px 5px 0;
+	width:450px;
+	float:left;
+	color:#CCC;
+	text-decoration:none;
+	text-align:center;
+	border:0px solid #000;	
+	}
+#opcoes_de_parcelamento .aa:hover{
+	text-decoration:underline;
+	color:#666;
+	}
+#opcoes_de_parcelamento .h3{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:0 5px 5px 0;
+	width:450px;
+	color:#F00;
+	text-align:center;
+	border:0px solid #000;	
+	}
+#opcoes_de_parcelamento .h4{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:0 0 5px 0;
+	width:450px;
+	color:#CCC;
+	text-align:center;
+	border:0px solid #000;	
+	}
+#opcoes_de_parcelamento .h5{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:0;
+	width:450px;
+	color:#FF0;
+	text-align:center;
+	border:0px solid #000;	
+	}
+#opcoes_de_parcelamento .botao_avancar{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:-8px 0 0 5px;
+	width:100px;
+	padding:10px;
+	float:left;
+	height:40px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#opcoes_de_parcelamento select{
+	float:left;
+	}
+#opcoes_de_parcelamento .input_debito{
+	font:25px Arial, Helvetica, sans-serif;
+	margin:7px 0 5px 5px;
+	float:left;
+	padding:5px;
+	text-align:center;
+	color:#F90;
+	height:27px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#opcoes_de_parcelamento input{
+	font:25px Arial, Helvetica, sans-serif;
+	margin:-8px 0 5px 5px;
+	float:left;
+	padding:5px;
+	text-align:center;
+	color:#F90;
+	height:27px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#opcoes_de_parcelamento .a{
+	width:350px;
+	color:#FFF;
+	float:left;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:50px 0 20px 30px;
+	border:2px solid #000;
+	}
+#opcoes_de_parcelamento .a_volta{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:5px;
+	color:#FFF;
+	border:1px solid #000;
+	padding:5px;
+	background:#099;
+	text-align:center;
+	text-decoration:none;
+	}
+#opcoes_de_parcelamento .a_volta:hover{
+	background:#0C0;
+	}
+
+
+	
+	
+#informacoes_pagamento{
+	width:540px;
+	height:540px;
+	float:right;
+	text-align:right;
+	background:#000;
+	color:#ccc;
+	margin:5px auto 5px auto;
+	border:1px solid #000;
+	border-radius:0;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#informacoes_pagamento input{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:5px;
+	text-align:center;
+	padding:2px;
+	height:20px;
+	text-transform:uppercase;
+	border:1px solid #000;
+	border-radius:0;
+	background:#000;
+	}
+#informacoes_pagamento .input{
+	font:15px Arial, Helvetica, sans-serif;
+	margin:5px;
+	text-align:right;
+	padding:5px;
+	height:20px;
+	text-transform:uppercase;
+	border:1px solid #222;
+	border-radius:0;
+	}
+#informacoes_pagamento .input2{
+	font:19px Arial, Helvetica, sans-serif;
+	margin:5px;
+	text-align:right;
+	padding:5px;
+	height:27px;
+	text-transform:uppercase;
+	border:1px solid #222;
+	border-radius:0;
+	}
+#informacoes_pagamento .h1{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 40px 0;
+	}
+
+#informacoes_pagamento .botao_avancar{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:-40px 0 0 0px;
+	width:100px;
+	padding:10px;
+	background:#900;
+	color:#FF0;
+	cursor:pointer;
+	float:left;
+	height:40px;
+	border:2px solid #666;
+	
+	border-radius:5px;
+	}
+#informacoes_pagamento .botao_avancar2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:-57px 0 0 440px;
+	width:100px;
+	cursor:pointer;
+	padding:10px;
+	background:#069;
+	color:#FF0;
+	float:left;
+	height:40px;
+	border:2px solid #666;
+	
+	border-radius:5px;
+	}
+	
+	
+#box_pagamento_1 .h11{
+	font:20px Arial, Helvetica, sans-serif;
+	text-align:center;
+	}
+#box_pagamento_1 .h66{
+	font:10px Arial, Helvetica, sans-serif;
+	width:1000px;
+	margin:15px 0 15px 0;
+	text-align:center;
+	}
+#box_pagamento_1 .h656{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:-10px 0 15px 300px;
+	text-align:center;
+	}
+#box_pagamento_1 .imggg{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 440px;
+	}
+#box_pagamento_1 .imggg2{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:10px 0 20px 220px;
+	}
+#box_pagamento_1 .imggg22{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:10px 0 20px 440px;
+	padding:2px;
+	border:2px solid #069;
+	border-radius:5px;
+	}
+#box_pagamento_1 .table{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 20px 0;
+	padding:0;
+	text-transform:none;
+	border:2px solid #000;
+	border-radius:5px;
+	width:900px;
+	}
+#box_pagamento_1 .comprovante{
+	width:350px;
+	color:#FFF;
+	float:left;
+	background:#090;
+	padding:5px;
+	text-align:center;
+	text-decoration:none;
+	margin:20px 0 20px 10px;
+	border:2px solid #000;
+	}
+#box_pagamento_1 .pagamento_sucesso{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:0px 0 20px -150px;
+	}
+#box_pagamento_1 .lic{
+	font:10px Arial, Helvetica, sans-serif;
+	margin:10px 0 20px -25px;
+	color:#CCC;
+	}

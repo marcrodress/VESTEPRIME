@@ -1,0 +1,15 @@
+#box{
+	width:1200px;
+	height:auto;
+	}
+#box h1{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box table{
+	padding:10px;
+	font:15px Arial, Helvetica, sans-serif;
+	border:1px solid #999;
+	margin:10px;
+	width:1180px;
+	}

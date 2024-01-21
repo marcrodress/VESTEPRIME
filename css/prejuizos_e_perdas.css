@@ -1,0 +1,92 @@
+#box_pagamento_1{
+	width:1000px;
+	height:400px;
+	background:#FFF;
+	margin:5px auto 5px auto;
+	border:2px solid #CCC;
+	border-radius:5px;
+	font:15px Arial, Helvetica, sans-serif;
+	}
+#box_pagamento_1 h1{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:10px;
+	}
+#box_pagamento_1 table{
+	text-align:center;
+	}
+#box_pagamento_1 input{
+	border:1px solid #CCC;
+	padding:10px;
+	text-align:center;
+	color:#999;
+	border-radius:5px;
+	}
+#box_pagamento_1 .a{
+	width:300px;
+	color:#FFF;
+	float:none;
+	background:#090;
+	padding:5px;
+	float:left;
+	text-align:center;
+	text-decoration:none;
+	margin:100px 0 20px 330px;
+	border:2px solid #000;
+	}
+#box_pagamento_1 .select{
+	font:20px Arial, Helvetica, sans-serif;
+	margin:7px;
+	width:900px;
+	float:left;
+	height:43px;
+	padding:10px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .botao_avancar{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:7px 0 0 0;
+	width:80px;
+	padding:10px;
+	float:left;
+	height:43px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+#box_pagamento_1 .botao_avancar2{
+	font:12px Arial, Helvetica, sans-serif;
+	margin:10px 0 0 0;
+	width:100px;
+	padding:10px;
+	height:50px;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+
+#box_pagamento_1 .valores{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:350px;
+	padding:10px;
+	height:40px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
+
+
+#box_pagamento_1 select{
+	font:18px Arial, Helvetica, sans-serif;
+	margin:0 0 0 0;
+	width:373px;
+	padding:10px;
+	height:40px;
+	text-transform:uppercase;
+	border:1px solid #666;
+	
+	border-radius:5px;
+	}
